@@ -1,2 +1,2 @@
-<h1 aligh="centre">Abdur Rahman</h1>
+<h1 align="center">Abdur Rahman</h1>
 #### Personal website
