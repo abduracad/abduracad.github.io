@@ -2,5 +2,5 @@
 <h1 align="center">Abdur Rahman</h1>
 
 <h5 align="center">Hi everyone!</h5>
-I am **Dr Abdur Rahman**, a postdoc fellow at the Physical Research Laboratory in Ahmedabad, India. My research interest revolve around **carbon** and **nitrogen** cycle in different ecosystems. 
+I am Dr. Abdur Rahman, a postdoc fellow at the Physical Research Laboratory in Ahmedabad, India. My research interest revolve around **carbon** and **nitrogen** cycle in different ecosystems. 
 
