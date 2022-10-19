@@ -2,7 +2,7 @@
 <h1 align="center">Abdur Rahman</h1>
 
 <h5 align="center">Hi everyone!</h5>
-I am Dr. Abdur Rahman, a postdoc fellow at the Physical Research Laboratory in Ahmedabad, India. 
+I am Dr. Abdur Rahman, a postdoc fellow at the Physical Research Laboratory in Ahmedabad, India. I have also done my phd thesis work from the same institute. My research interest revolves around the carbon cycle in different aquatic systems. My research career were started with reconstruction of Himalayan paleoenvironment using stable isotopes in lake sediments. 
 
 
 
