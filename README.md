@@ -8,7 +8,7 @@ I am Dr. Abdur Rahman, a postdoc fellow at the Physical Research Laboratory in A
 <h2 align="left">News and updates</h2>
 
 - A collabrative work has been recently accepted in __Biogeochemistry (Elsivier)__ in which biomarker and stable isotopes have been used to charaterized the sources of organic matter in the __Renuka lake, Central Himalaya__.
-- To estimated the biological carbon and nitrogen fixation in the hypersaline environment, a 4 days biogeochemical assessment have been performed in the __Sambhar Lake, Rajasthan, India__. 
+- To estimated the biological carbon and nitrogen fixation in the hypersaline environment, a 4 days field work have been performed in the __Sambhar Lake, Rajasthan, India__ and tracer incubation experiments were performed in the field.
 
 
 
