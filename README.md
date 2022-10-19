@@ -7,7 +7,8 @@ I am Dr. Abdur Rahman, a postdoc fellow at the Physical Research Laboratory in A
 
 <h2 align="left">Ongoing projects</h2>
 
-Carbon and Nitrogen cycling during the Ediacaran-Cambrian boundary using stable isotope of the remnant organic matter preserved in limestone.
+- Black carbon dynamics of the Northern Indian ocean and inland waters of India
+- Carbon and Nitrogen cycling during the Ediacaran-Cambrian boundary using stable isotope of the remnant organic matter preserved in limestone.
 
 
 
