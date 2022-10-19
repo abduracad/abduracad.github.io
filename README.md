@@ -7,7 +7,7 @@ I am Dr. Abdur Rahman, a postdoc fellow at the Physical Research Laboratory in A
 
 <h2 align="left">News and updates</h2>
 
-- A collabrative work has been recently accepted in _Biogeochemistry_.
+- A collabrative work has been recently accepted in __Biogeochemistry__ in which biomarker and stable isotopes have been used to charaterized the sources of organic matter in the __Renuka lake, Central Himalaya__.
 
 
 
