@@ -7,6 +7,8 @@ I am Dr. Abdur Rahman, a postdoc fellow at the Physical Research Laboratory in A
 
 <h2 align="left">News and updates</h2>
 
+- A collabrative work has been recently accepted in _Biogeochemistry_.
+
 
 
 
